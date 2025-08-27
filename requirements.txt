@@ -1,0 +1,6 @@
+keras>=2.0.0
+tensorflow>=2.0.0
+numpy>=1.19.0
+matplotlib>=3.0.0
+pandas>=1.0.0
+requests>=2.25.0
